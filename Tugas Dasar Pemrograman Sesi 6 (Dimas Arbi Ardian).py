@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
+# Cara Pertama
 print("===== Program Nilai Kelulusan =====")
 nilai = int(input("Inputkan nilai akhir: "))
 if (nilai >= 90) and (nilai <=100):
@@ -24,9 +19,7 @@ else:
 print ("Hasil akhir","Grade Anda: ", grade)
 
 
-# In[ ]:
-
-
+# Cara Kedua
 print("===== Program Nilai Kelulusan =====")
 while True:
     try:
