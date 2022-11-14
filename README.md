@@ -56,7 +56,7 @@ while True:
             print("Tidak LULUS")
         else:
             "Invalid Input"
-#Tugas Sesi 7
+# Tugas Sesi 7
 def Luas_Segitiga():
     print("🔺Hitung Luas Segitiga🔻")
     alas = int(input('Masukan alasnya: '))
